@@ -1,0 +1,2 @@
+principal.Movimentar
+principal.MostraImagem
